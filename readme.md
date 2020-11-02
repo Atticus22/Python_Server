@@ -4,9 +4,9 @@
 
 ## Instructions
 
-1. Starts server by entering the following command: `python3 server.py`.
+1. Start server by entering the following command: `python3 server.py`.
 
-2. Enter the IP adress for the server.
+2. Enter the IP adress for the server: `127.0.0.1`
 
 3. Enter the port you which to connect to.
 
